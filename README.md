@@ -9,3 +9,8 @@ to the python version you're installing with. Packages required:
 2. numpy 
 3. matplotlin 
 4. seaborn
+
+Please note:
+This notebook includes comments/texts such as reasoning for data cleaning, insights from data exploration and modelling.
+Hence, text and images/graphs may be identical to the report produced from Latex. This is mentioned as this repository 
+is made public which may cause my report submission to be flagged by turnitin. 
