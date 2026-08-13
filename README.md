@@ -7,8 +7,9 @@ to the python version you're installing with. Packages required:
  
 1. pandas 
 2. numpy 
-3. matplotlin 
+3. matplotlib
 4. seaborn
+5. sklearn
 
 Please note:
 This notebook includes comments/texts such as reasoning for data cleaning, insights from data exploration and modelling.
